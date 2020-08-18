@@ -6,5 +6,5 @@ In this paper, we present a methodology for fast automated segmentation of white
 http://www.tjprc.org/publishpapers/2-14-1530526922-1.IJCSEITRAUG20181.pdf
 
 This repository contains the code for the GUI Application that was built to implement our research.
-# Leukemia-Prediction
-# Leukemia-Prediction
+
+
